@@ -1,4 +1,4 @@
-## `**Capstone Project Module 1 - Data Stock**`
+## `Purwadhika Capstone Project Python Programming`
 
 This programs was develop for Data Warehouse Inventory List for local Apple Store.
 
