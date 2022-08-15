@@ -1,5 +1,5 @@
-## **`Purwadhika Capstone Project 
-Python Programming - Warehouse Inventory List`**
+## **`Purwadhika Capstone Project`**
+## **`Python Programming - Warehouse Inventory List`**
 
 This programs was develop for Data Warehouse Inventory List for local Apple Store.
 
